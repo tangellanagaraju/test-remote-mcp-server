@@ -1,0 +1,15 @@
+
+{
+  "categories": {
+    "Food": ["Breakfast", "Lunch", "Dinner", "Snacks", "Drinks"],
+    "Travel": ["Bus", "Train", "Flight", "Cab", "Fuel"],
+    "Transport": ["Auto", "Bike", "Car", "Metro"],
+    "Shopping": ["Clothes", "Electronics", "Grocery Items"],
+    "Bills": ["Electricity", "Water", "Internet", "Mobile Recharge"],
+    "Entertainment": ["Movies", "Games", "OTT", "Events"],
+    "Health": ["Medicines", "Hospital", "Fitness"],
+    "Education": ["Books", "Courses", "Fees"],
+    "Groceries": ["Vegetables", "Fruits", "Daily Needs"],
+    "Others": ["Miscellaneous", "Uncategorized"]
+  }
+}
